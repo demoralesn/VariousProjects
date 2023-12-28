@@ -1,0 +1,14 @@
+C:\Users\intro\source\repos\VariousProjects\Serialization\bin\Debug\net8.0\Serialization.exe
+C:\Users\intro\source\repos\VariousProjects\Serialization\bin\Debug\net8.0\Serialization.deps.json
+C:\Users\intro\source\repos\VariousProjects\Serialization\bin\Debug\net8.0\Serialization.runtimeconfig.json
+C:\Users\intro\source\repos\VariousProjects\Serialization\bin\Debug\net8.0\Serialization.dll
+C:\Users\intro\source\repos\VariousProjects\Serialization\bin\Debug\net8.0\Serialization.pdb
+C:\Users\intro\source\repos\VariousProjects\Serialization\obj\Debug\net8.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intro\source\repos\VariousProjects\Serialization\obj\Debug\net8.0\Serialization.AssemblyInfoInputs.cache
+C:\Users\intro\source\repos\VariousProjects\Serialization\obj\Debug\net8.0\Serialization.AssemblyInfo.cs
+C:\Users\intro\source\repos\VariousProjects\Serialization\obj\Debug\net8.0\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\intro\source\repos\VariousProjects\Serialization\obj\Debug\net8.0\Serialization.dll
+C:\Users\intro\source\repos\VariousProjects\Serialization\obj\Debug\net8.0\refint\Serialization.dll
+C:\Users\intro\source\repos\VariousProjects\Serialization\obj\Debug\net8.0\Serialization.pdb
+C:\Users\intro\source\repos\VariousProjects\Serialization\obj\Debug\net8.0\Serialization.genruntimeconfig.cache
+C:\Users\intro\source\repos\VariousProjects\Serialization\obj\Debug\net8.0\ref\Serialization.dll
